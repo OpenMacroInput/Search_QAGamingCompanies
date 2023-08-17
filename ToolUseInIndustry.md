@@ -22,3 +22,16 @@ https://youtu.be/9u2mSkz0jq8
 - Sikulix
 - AutoIT
 - Tricentis Tosca
+
+
+## Macro Software used by split community  
+
+- AutoIt (for Windows) https://www.autoitscript.com/site/  
+- AutoKey (for Linux) https://github.com/autokey/autokey    
+- Automator (for Macintosh) https://support.apple.com/guide/automator/welcome/mac
+- Bookmarklet (for web browsers) Bookmarklet  https://youtu.be/DloHqUfPbJc
+- iMacros (for Firefox, Chrome, and Internet Explorer) https://chrome.google.com/webstore/detail/imacros-for-chrome/cplklnmnlbnpmjogncfgfijoopmnlemp
+- Keyboard Maestro (for Macintosh) https://www.keyboardmaestro.com/main/
+- KiXtart (for Windows)
+- Macro Express (for Windows) https://www.macros.com 60€
+- Winbatch (for Windows) https://winbatch.com
